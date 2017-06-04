@@ -13,4 +13,5 @@ Additionally, you may want to change the following variables:
   
 ## Credits
 Permissions: https://developer.android.com/training/permissions/requesting.html
+
 SurfaceView: http://www.androidcodec.com/android-surfaceview-example/
